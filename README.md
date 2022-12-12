@@ -9,7 +9,7 @@ Student attendance check system
 ---
 
 #### 2) Project Objectives
-Instead of checking attendance using the existing character input method and name method,
+##### Instead of checking attendance using the existing character input method and name method,
 We wanted to make a attendance system using the face recognition method.
 Because the existing method had problems such as proxy attendance and fraudulent attendance
 We thought we should create a system in which attendance is recognized only when people recognize their faces.
