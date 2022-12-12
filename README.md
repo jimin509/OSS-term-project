@@ -18,11 +18,11 @@
 ---
 #### 3) Project Features
 
-This project features facial recognition through images.
-Compared to the newly entered face image through the input image, the person concerned
-You can check your attendance. It also includes an attendance check system.
-After checking the list and checking attendance, it has the characteristic of informing the attendance status on the screen.
-The advantage is that not only those who attend but also those who are absent can be painted.
+##### This project features facial recognition through images.
+##### Compared to the newly entered face image through the input image, the person concerned
+##### You can check your attendance. It also includes an attendance check system.
+##### After checking the list and checking attendance, it has the characteristic of informing the attendance status on the screen.
+##### The advantage is that not only those who attend but also those who are absent can be painted.
 
 ### 2. version & install  
 1. Python (3.10.1)  
