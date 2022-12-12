@@ -4,18 +4,18 @@
 # ✅Student Attendance System  
 
 ### 1. Project Overview
-####1) Project Name
+#### 1) Project Name
 Student attendance check system
 ---
 
-####2) Project Objectives
+#### 2) Project Objectives
 Instead of checking attendance using the existing character input method and name method,
 We wanted to make a attendance system using the face recognition method.
 Because the existing method had problems such as proxy attendance and fraudulent attendance
 We thought we should create a system in which attendance is recognized only when people recognize their faces.
 Also, We wanted to use methods such as image recognition and face recognition that we learned through the existing open source class.
 ---
-####3) Project Features
+#### 3) Project Features
 This project features facial recognition through images.
 Compared to the newly entered face image through the input image, the person concerned
 You can check your attendance. It also includes an attendance check system.
